@@ -1,0 +1,9 @@
+Node: 
+Javascript runtime used to execute outside out of the browser
+
+
+Express :
+Library that runs in the Noe runtime
+collection of helpers/funcitons that runs in Node runtime to make writing servers a lill bit  easier  
+
+common Js
