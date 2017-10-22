@@ -1,9 +1,43 @@
 Node: 
 Javascript runtime used to execute outside out of the browser
-
+772129286379-82sf7o010er4mk1v7revcf28kci1qvl9.apps.googleusercontent.com
+DO9evipcG6evGQyn2vRN6pIT
 
 Express :
 Library that runs in the Noe runtime
 collection of helpers/funcitons that runs in Node runtime to make writing servers a lill bit  easier  
 
 common Js
+
+client ID // Public key
+
+
+cliet secret
+
+
+http://localhost:5000/auth/google/callback?code=4/worFbzAII_sgWGdmi9c6lS9gGRQy1ZrEQOWGtktTGbA#
+
+https://accounts.google.com/signin/v2/challenge/pwd?
+client_id=684365077158-3o2tt1cvh9u4di7dcptlk0m99liel9qb.apps.googleusercontent.com&
+as=-15dc86daf79504a1&destination=http%3A%2F%2Flocalhost%3A5000&
+approval_state=!ChRUYl9jQ05OLVlRakN2X1NTSFBsLRIfSThMeW1fZ3VkSjBUVU9xWmlfQjdtUl8wX2l3ODlCVQ%E2%88%99AHw7d_cAAAAAWe3NGdBF8y4CZweqJjEiBHZedR0JG61b&
+passive=1209600&oauth=1&
+sarp=1&scc=1&
+xsrfsig=AHgIfE9lip_NRKnpIH7SRLbRoUN4LL_jxg&
+flowName=GeneralOAuthFlow&
+TL=AHnYQLzp1_cX9mUsXgUsj0mJXjHW5km1dmdRTvqX-wtVjR_cSFd92tQnboCU6bjbJ70uEt50CtMVF2LFLXfG3onrB2MfXm_0SUI4y3XE5B9ShA88Xt7WMVxBzklSxpnk-Su6lcxCpx5ryp0pj55X1h7A9oFl2rX9dA&cid=1&
+navigationDirection=forward
+
+https://accounts.google.com/o/oauth2/v2/auth?
+response_type=code&
+scope=profile%20email&
+client_id=684365077158-3o2tt1cvh9u4di7dcptlk0m99liel9qb.apps.googleusercontent.com
+
+https://accounts.google.com/o/oauth2/v2/auth?
+response_type=code&scope=profile%20email&
+client_id=684365077158-3o2tt1cvh9u4di7dcptlk0m99liel9qb.apps.googleusercontent.com
+
+https://accounts.google.com/o/oauth2/v2/auth?
+response_type=code&
+scope=profile%20email&
+client_id=684365077158-3o2tt1cvh9u4di7dcptlk0m99liel9qb.apps.googleusercontent.com
